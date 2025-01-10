@@ -18,7 +18,7 @@ type Params struct {
  * 结构体名称不支持自定义, 必须为 Result
  * 结构体属性支持自定义, 和 index.meta.json 中的 output 参数一一对应
  */
-// 在 Result 结构体中添加 ZodiacSign 字段
+// 在 Result 结构体中添加 ZodiacSign 字段111
 type Result struct {
 	ZodiacSign string `json:"zodiacSign"` // 对应月份的星座名称
 }
