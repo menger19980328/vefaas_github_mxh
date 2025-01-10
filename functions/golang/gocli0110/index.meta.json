@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1ced36__c__function_aadhqchpxfmcg",
+  "apiName": "gocli0110",
+  "label": {
+    "zh_CN": "gocli 0110",
+    "en_US": "gocli 0110"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
