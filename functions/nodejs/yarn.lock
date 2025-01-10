@@ -24,20 +24,7 @@
     form-data "^3.0.0"
     mime "^3.0.0"
 
-"@byted-apaas/server-common-node@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.npmmirror.com/@byted-apaas/server-common-node/-/server-common-node-2.0.4.tgz#8774c008585fe1cc68ef06c0f96cbb96d5b957e9"
-  integrity sha512-HYa7cezvg9gipGW/HVLn93ltC8zGS97dCHQGKmVUIU/u2B/dj9710ILTBu/MXOkuMFwD5mKfaXTit/4w8JrXOA==
-  dependencies:
-    bson "^1.0.7"
-    crypto-js "^4.1.1"
-    dayjs "^1.9.6"
-    form-data "^4.0.0"
-    got "11.8.6"
-    node-cache "^5.1.2"
-    node-cls "^1.0.7"
-
-"@byted-apaas/server-common-node@^2.0.1", "@byted-apaas/server-common-node@^2.0.2":
+"@byted-apaas/server-common-node@2.0.18", "@byted-apaas/server-common-node@^2.0.1", "@byted-apaas/server-common-node@^2.0.2":
   version "2.0.18"
   resolved "https://registry.npmmirror.com/@byted-apaas/server-common-node/-/server-common-node-2.0.18.tgz#e3aa9b2a610830d31543c705cd5ba350be094089"
   integrity sha512-o9Um5KrfTD3mdFLV1h2liTLNRWZY4Ptc1d3HA19RFcIseWIkhZ5ykJQyNyZlfWaF2xmi1a4RaTl+PDmJ6HpnBA==
