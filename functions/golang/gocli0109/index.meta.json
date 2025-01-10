@@ -1,0 +1,32 @@
+{
+  "apiID": "package_1ced36__c__function_aadhp6uly5ggg",
+  "apiName": "gocli0109",
+  "label": {
+    "zh_CN": "gocli 0109",
+    "en_US": "gocli 0109"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [
+    {
+      "key": "month",
+      "type": "Number",
+      "required": true,
+      "label": "月份",
+      "description": "需要查询星座的月份，1到12之间的整数。"
+    }
+  ],
+  "output": [
+    {
+      "key": "zodiacSign",
+      "type": "Text",
+      "required": true,
+      "label": "星座",
+      "description": "对应月份的星座名称。"
+    }
+  ]
+}
